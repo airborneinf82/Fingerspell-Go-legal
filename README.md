@@ -8,8 +8,8 @@ Fingerspell Go is an educational iOS app that helps users learn ASL fingerspelli
 
 ## 📄 Legal Documents
 
-- **[Privacy Policy](https://airborneinf82.github.io/fingerspell-go-legal/privacy-policy.html))** - How we handle your data and privacy
-- **[Terms of Service](https://airborneinf82.github.io/fingerspell-go-legal/terms-of-service.html)** - Terms of use for the app
+- **[Privacy Policy](https://airborneinf82.github.io/Fingerspell-Go-legal/privacy-policy.html)** - How we handle your data and privacy
+- **[Terms of Service](https://airborneinf82.github.io/Fingerspell-Go-legal/terms-of-service.html)** - Terms of use for the app
 
 ## 🔒 Privacy-First Design
 
